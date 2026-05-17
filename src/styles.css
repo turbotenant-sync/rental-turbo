@@ -1,0 +1,16 @@
+@import "tailwindcss" source("../");
+
+body {
+  margin: 0;
+  font-family: "Open Sans", ui-sans-serif, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #f4f8fb;
+}
+
+code {
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.font-display {
+  font-family: "Poppins", "Open Sans", ui-sans-serif, sans-serif;
+}
